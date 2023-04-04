@@ -10,5 +10,5 @@ Olá me chamo Lucas ;)
 <div>
       <img height="180" src="(https://github-readme-stats.vercel.app/api?username=LCS-Simoes)](https://github.com/anuraghazra/github-readme-stats)"/>
       <img height="180" src="(https://github-readme-stats.vercel.app/api?username=LCS-Simoes&hide=contribs,prs)"\>
-      <img height="180" src="(https://github-readme-stats.vercel.app/api?username=LCS-Simoes&show_icons=true&theme=radical)"/>
+      <img height="180" src="(https://github-readme-stats.vercel.app/api?username=LCS-Simoes&show_icons=true&theme=gruvbox)"/>
 <div>
