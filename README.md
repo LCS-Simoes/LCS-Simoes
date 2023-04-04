@@ -9,4 +9,5 @@ Olá me chamo Lucas ;)
        🔵 Python
 <div>
       <img height="180" src="https://github-readme-stats.vercel.app/api?username=LCS-Simoes&show_icons=true&theme=gruvbox"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
 <div>
