@@ -9,5 +9,5 @@ Olá me chamo Lucas ;)
        🔵 Python
 <div>
       <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LCS-Simoes&show_icons=true&theme=tokyonight"/>
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCS-Simoes&theme=tokyonight"/>
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCS-Simoes&theme=tokyonight"/>
 <div>
