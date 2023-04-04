@@ -8,6 +8,6 @@ Olá me chamo Lucas ;)
        🟢 C/C#
        🔵 Python
 <div>
-      <img height="180" src="(https://github-readme-stats.vercel.app/api?username=Lucas Simões)](https://github.com/anuraghazra/github-readme-stats)"/>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lucas Simões=contribs,prs)"\>
+      <img height="180" src="(https://github-readme-stats.vercel.app/api?username=LCS-Simoes)](https://github.com/anuraghazra/github-readme-stats)"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=LCS-Simoes=contribs,prs)"\>
 <div>
