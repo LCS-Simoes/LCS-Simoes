@@ -7,3 +7,7 @@ Olá me chamo Lucas ;)
        🔴 Java
        🟢 C/C#
        🔵 Python
+<div>
+      <img height="180" src="(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)"\>
+<div>
