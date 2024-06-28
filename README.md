@@ -1,7 +1,7 @@
 
 👋 Olá! me chamo Lucas ;)
 - 👨‍💻 Analista e desenvolvedor de sistemas </br>
-      Linguagens que tenho certo conhecimento ou me interesso:
+      Linguagens que eu domino ou tenho conhecimento:
             <div>      
                     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
                     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
