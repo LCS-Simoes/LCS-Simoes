@@ -1,7 +1,13 @@
-# 👋 Olá, me chamo Lucas :) 
-👨‍💻 Analista e desenvolvedor de sistemas </br>
-[![Programming Languages:](https://skillicons.dev/icons?i=java,cs,c,androidstudio,html,css,js,&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+# 👋 Olá, me chamo Lucas. </br>
+##Progamming languague
+<div>
+      [![Programming Languages](https://skillicons.dev/icons?i=java,cs,c,html,css,js,&theme=dark)](https://skillicons.dev)
+</div>
+
+##I use it to program
+<p align="left">
+      [![Use] (https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,nodejs,dotnet,gradle,mysql,&theme=dark)] (https://skillicons.dev)
+</p>
 
 <div>
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LCS-Simoes&show_icons=true&theme=tokyonight"/>
