@@ -1,10 +1,8 @@
 # 👋 Olá, me chamo Lucas. </br>
 ##Progamming languague
-<div>
-      [![Programming Languages](https://skillicons.dev/icons?i=java,cs,c,html,css,js,&theme=dark)](https://skillicons.dev)
-</div>
+[![Programming Languages](https://skillicons.dev/icons?i=java,cs,c,html,css,js,&theme=dark)](https://skillicons.dev)
+#I use it to program
 
-##I use it to program
 <p align="left">
       [![Use] (https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,nodejs,dotnet,gradle,mysql,&theme=dark)] (https://skillicons.dev)
 </p>
