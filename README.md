@@ -4,9 +4,9 @@
 [![Linguagens de Programação](https://skillicons.dev/icons?i=java,cs,c,html,css,js,&theme=dark)](https://skillicons.dev)
 Utilizo essas linguagens para programar.
 
-<p align="left">
-  [![Ferramentas](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,nodejs,dotnet,gradle,mysql,&theme=dark)](https://skillicons.dev)
-</p>
+## Others
+[![Ferramentas](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,nodejs,dotnet,gradle,mysql,&theme=dark)](https://skillicons.dev)
+Utilizo para poder programar.
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LCS-Simoes&show_icons=true&theme=tokyonight" />
