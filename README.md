@@ -1,4 +1,5 @@
-# 👋 Olá, me chamo Lucas.
+## 👋 Olá, me chamo Lucas.
+📧 Meio de contato: lucasbritosimoes@hotmail.com
 
 ## Linguagens de Programação
 Utilizo essas linguagens para programar. </br>
