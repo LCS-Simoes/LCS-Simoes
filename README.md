@@ -11,6 +11,6 @@ Utilizo para poder programar. </br>
 [![Ferramentas](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,nodejs,dotnet,gradle,mysql,&theme=dark)](https://skillicons.dev)
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LCS-Simoes&show_icons=true&theme=tokyonight" />
+  <img height="160em" src= "https://github-readme-stats.vercel.app/api?username=LCS-Simoes&theme=tokyonight&show_icons=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCS-Simoes&theme=tokyonight" />
 </div>
