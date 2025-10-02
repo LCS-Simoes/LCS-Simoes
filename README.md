@@ -39,9 +39,9 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 🐾 **[VetOn – Sistema de Clínica Veterinária](https://github.com/LCS-Simoes)** → Sistema em **C# (Windows Forms + SQL)** para cadastro de clientes, pets, agendamento de consultas e relatórios.
-- 📇 **[Sistema de Controle de Contatos](https://github.com/LCS-Simoes)** → Aplicação em **ASP.NET Core MVC** para cadastro, edição, listagem e exclusão de contatos e usuários.
-- 🩸 **[Aplicativo de Doação de Sangue](https://github.com/LCS-Simoes)** → App Android com **Firebase + Java/XML**, incluindo login, agendamento, lembretes, avisos e cartão do doador.
+- 🐾 **[VetOn – Sistema de Clínica Veterinária](https://github.com/LCS-Simoes/VetOn)** → Sistema em **C# (Windows Forms + SQL)** para cadastro de clientes, pets, agendamento de consultas e relatórios.
+- 📇 **[Sistema de Controle de Contatos](https://github.com/LCS-Simoes/ControleDeContatos)** → Aplicação em **ASP.NET Core MVC** para cadastro, edição, listagem e exclusão de contatos e usuários.
+- 🩸 **[Aplicativo de Doação de Sangue](https://github.com/LCS-Simoes/AppDoacao)** → App Android com **Firebase + Java/XML**, incluindo login, agendamento, lembretes, avisos e cartão do doador.
 - 📄 **Artigo Publicado** → Trabalho acadêmico sobre tecnologia e desenvolvimento. [🔗 Link](https://www.fateccampinas.com.br/rbti/index.php/fatec/article/view/106)
 
 ---
