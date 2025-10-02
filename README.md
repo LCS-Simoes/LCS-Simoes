@@ -32,7 +32,7 @@
 ## ⚙️ Ferramentas & Tecnologias
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,visualstudio,vscode,git,mysql,firebase,gradle&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,visualstudio,vscode,git,mysql,sqlite,firebase,gradle&theme=dark" />
   </a>
 </p>
 
